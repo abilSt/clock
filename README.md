@@ -1,5 +1,5 @@
 # JS clock
 
-#html/scss/js
+html/scss/js
 
 
